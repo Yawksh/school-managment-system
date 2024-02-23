@@ -58,6 +58,7 @@ public class ABOUTUS extends javax.swing.JFrame {
         jTextArea1.setText("ARBAMUNCHI UNIVERSITY 3RD  YEAR  SOFTWARE ENIGINEERING \nSTUDENT GROUP 3   ADVACED JAVA PROJECT");
         jScrollPane1.setViewportView(jTextArea1);
 
+        
         jLabel8.setFont(new java.awt.Font("Rockwell Condensed", 1, 18)); // NOI18N
         jLabel8.setForeground(new java.awt.Color(102, 255, 102));
         jLabel8.setText("                                      ABOUT US");
