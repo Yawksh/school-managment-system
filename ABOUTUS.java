@@ -109,8 +109,7 @@ public class ABOUTUS extends javax.swing.JFrame {
         );
 
         pack();
-    }// </editor-fold>//GEN-END:initComponents
-
+    }
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
       // TODO add your handling code here:
          Students_and_Teachers_Management  e = new Students_and_Teachers_Management();
