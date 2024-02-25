@@ -44,7 +44,7 @@ public class ABOUTUS extends javax.swing.JFrame {
                 {"YISAK ZEMEDU", "NSR/2517/13", null},
                 {"YAWKAL FENTAW", "NSR/2456/13", null},
                 {"MIKIYAS", "NSR/1707/13", null},
-                {"BEZA DERBE", "NSR/546/13", null},
+                {"BEZA", "NSR/546/13", null},
                 {null, null, null}
             },
             new String [] {
