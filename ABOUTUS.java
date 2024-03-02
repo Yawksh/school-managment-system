@@ -47,6 +47,7 @@ public class ABOUTUS extends javax.swing.JFrame {
                 {"BEZA", "NSR/546/13", null},
                 {null, null, null}
             },
+            
             new String [] {
                 "NAME", "ID", "Title 3"
             }
