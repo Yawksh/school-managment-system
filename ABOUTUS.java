@@ -10,8 +10,6 @@
  
  */
 public class ABOUTUS extends javax.swing.JFrame {
-
-    
     /**
      * Creates new form ABOUTUS
      */
